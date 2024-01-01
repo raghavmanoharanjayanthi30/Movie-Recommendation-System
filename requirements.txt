@@ -1,0 +1,4 @@
+setuptools==58.1.0
+pandas==1.5.3
+numpy==1.24.3
+streamlit==1.29.0
